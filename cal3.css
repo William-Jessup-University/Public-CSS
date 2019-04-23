@@ -1,0 +1,9 @@
+body{padding:0;font-family:'Segoe UI',Tahoma,sans-serif;font-size:10px;text-align:center;cursor:default;color:#FFF}
+button{border-color:black;border-style:solid;border-width:1px;border-radius:10px;width:100%}
+button:hover{background-color:#89B0D7;color:#FFF;cursor:pointer}
+h1{margin:0;font-size:28px;color:#FFF}
+.calendar_date{border-color:#89B0D7;border-style:solid;border-width:1px;border-radius:10px}
+.calendar_date_today{border-color:#dc001e}
+.calendar_date_total_bookings{color:#89B0D7}
+.calendar_more_info_link{cursor:pointer}
+.calendar_more_info_link:hover{text-decoration:underline}
